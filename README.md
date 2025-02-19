@@ -1,0 +1,96 @@
+# LeetCode Practice
+
+## Two Pointers
+  Medium [15. 3Sum](https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Bit Manipulation
+  Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [338. Counting Bits](https://leetcode.com/problems/counting-bits/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Linked List
+  Easy [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [143. Reorder List](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Hard [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=problem-list-v2&envId=oizxjoit)  
+
+## String
+  Medium [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1189739132/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Array
+  Medium [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [1. Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Sliding Window
+  Medium [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Breadth-First Search
+  Medium [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1036459804/?envType=problem-list-v2&envId=oizxjoit)
+
+## Depth-First Search
+  Medium [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [79. Word Search](https://leetcode.com/problems/word-search/description/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Dynamic Programming
+  Medium [139. Word Break](https://leetcode.com/problems/word-break/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [322. Coin Change](https://leetcode.com/problems/coin-change/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [198. House Robber](https://leetcode.com/problems/house-robber/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [91. Decode Ways](https://leetcode.com/problems/decode-ways/submissions/1127815992/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Greedy
+  Medium [55. Jump Game](https://leetcode.com/problems/jump-game/description/?envType=problem-list-v2&envId=oizxjoit)
+
+## Math
+  Easy [268. Missing Number](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Stack
+  Easy [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Binary Search
+  Medium [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Backtracking
+  Medium [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Hash Table
+  Medium [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1073054831/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Tree
+  Medium [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [100. Same Tree](https://leetcode.com/problems/same-tree/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=oizxjoit)  
+  Easy [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=problem-list-v2&envId=oizxjoit)  
+  Medium [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/?envType=problem-list-v2&envId=oizxjoit)  
+
+## Trie
+  Medium [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=problem-list-v2&envId=oizxjoit)  

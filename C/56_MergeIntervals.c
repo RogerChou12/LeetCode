@@ -3,12 +3,15 @@
  * The sizes of the arrays are returned as *returnColumnSizes array.
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
+#include<stdbool.h>
+
 int cmpInterval(const void *a, const void *b){
     int *interval_a = *(const int**) a;
     int *interval_b = *(const int**) b;
     if(interval_a[0]==interval_b[0]) return interval_a[1]-interval_b[1];
     return interval_a[0]-interval_b[0];
 }
+
 int** merge(int** intervals, int intervalsSize, int* intervalsColSize, int* returnSize, int** returnColumnSizes) {
     int **ans = malloc(sizeof(int*)*intervalsSize);
     int *temp = malloc(sizeof(int)*2);

@@ -5,6 +5,13 @@
  *     struct ListNode *next;
  * };
  */
+#include<stdio.h>
+
+struct ListNode {
+    int val;
+    struct ListNode *next;
+};
+
 void reorderList(struct ListNode* head) {
     struct ListNode *fast=head, *slow=head;
     while(fast && fast->next){

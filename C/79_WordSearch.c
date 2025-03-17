@@ -1,3 +1,5 @@
+#include<stdbool.h>
+
 bool search(char** board, int boardSize, int* boardColSize, char* word, int i, int j){
     if(strlen(word)<=0) return true;
     if(i<0 || i>=boardSize || j<0 || j>=boardColSize[i]) return false;

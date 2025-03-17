@@ -12,11 +12,13 @@
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
 #include<stdio.h>
+
 struct TreeNode {
     int val;
     struct TreeNode *left;
     struct TreeNode *right;
 };
+
 int** levelOrder(struct TreeNode* root, int* returnSize, int** returnColumnSizes) {
     if(!root){
         (*returnColumnSizes) = NULL;

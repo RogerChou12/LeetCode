@@ -1,3 +1,5 @@
+#include<stdbool.h>
+
 bool isValid(char* s) {
     int s_len=strlen(s);
     char *stack=malloc(sizeof(char)*s_len);

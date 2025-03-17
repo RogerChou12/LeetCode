@@ -1,9 +1,12 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
+#include<stdio.h>
+
 int cmpInt(const void *a, const void *b){
     return *(int*)a - *(int*)b;
 }
+
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     int *copy=malloc(sizeof(int)*numsSize);
     memcpy(copy, nums, numsSize*sizeof(int));

@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "91_DecodeWays.C": "cpp"
+        "91_DecodeWays.C": "cpp",
+        "stdbool.h": "c",
+        "vector": "cpp"
     }
 }

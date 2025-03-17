@@ -1,3 +1,5 @@
+#include<stdbool.h>
+
 bool canJump(int* nums, int numsSize) {
     int furthest=0;
     // keep track the furthest reachable index

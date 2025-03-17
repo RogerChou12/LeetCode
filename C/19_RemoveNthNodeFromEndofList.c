@@ -5,6 +5,11 @@
  *     struct ListNode *next;
  * };
  */
+struct ListNode {
+    int val;
+    struct ListNode *next;
+};
+
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
     struct ListNode *fast=head, *slow=head;
     // move 'fast' n steps ahead

@@ -1,3 +1,5 @@
+#include<string.h>
+
 int numDecodings(char* s) {
     int now=1, pre=0; // now=decoding ways from 'i+1', pre=decoding ways from 'i+2'
     int len=strlen(s);

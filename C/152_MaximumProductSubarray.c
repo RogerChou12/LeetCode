@@ -1,3 +1,5 @@
+#include<limits.h>
+
 int maxProduct(int* nums, int numsSize) {
     int max_product=INT_MIN, prefix=1, suffix=1;
 

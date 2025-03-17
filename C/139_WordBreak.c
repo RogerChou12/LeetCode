@@ -1,3 +1,5 @@
+#include<stdbool.h>
+
 bool wordBreak(char* s, char** wordDict, int wordDictSize) {
     int s_len = strlen(s);
     bool *check = calloc(s_len+1, sizeof(bool)); //track whether substrings can be formed

@@ -6,6 +6,14 @@
  *     struct TreeNode *right;
  * };
  */
+#include<stdbool.h>
+
+struct TreeNode {
+    int val;
+    struct TreeNode *left;
+    struct TreeNode *right;
+};
+
 bool isSame(struct TreeNode* root, struct TreeNode* subRoot){
     if(!root && !subRoot) return true;
     else if(!root || !subRoot || root->val != subRoot->val) return false;

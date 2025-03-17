@@ -5,6 +5,11 @@
  *     struct ListNode *next;
  * };
  */
+struct ListNode {
+    int val;
+    struct ListNode *next;
+};
+
 struct ListNode* mergeTwoLists(struct ListNode* list1, struct ListNode* list2) {
     if(!list1){
         return list2;

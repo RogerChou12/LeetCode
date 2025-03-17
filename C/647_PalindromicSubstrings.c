@@ -1,3 +1,5 @@
+#include<stdbool.h>
+
 int countSubstrings(char* s) {
     int s_len=strlen(s);
     bool **palindromic=malloc(sizeof(bool*)*s_len);

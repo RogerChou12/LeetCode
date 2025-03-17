@@ -1,3 +1,6 @@
+#include <vector>
+#include <unordered_map>
+
 class Solution {
     public:
         bool containsDuplicate(vector<int>& nums) {

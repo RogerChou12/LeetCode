@@ -1,18 +1,23 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
+#include<stdio.h>
+
 typedef struct{
     int value;
     int count;
 }hash;
+
 int cmpInt(const void *a, const void *b){
     return *(int*)a-*(int*)b;
 }
+
 int cmpHash(const void *a, const void *b){
     const hash* ha = (const hash*) a;
     const hash* hb = (const hash*) b;
     return ha->count-hb->count;
 }
+
 int* topKFrequent(int* nums, int numsSize, int k, int* returnSize) {
     // only one integer in 'nums'
     if(numsSize==1 && k==1){

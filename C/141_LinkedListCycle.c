@@ -5,6 +5,13 @@
  *     struct ListNode *next;
  * };
  */
+#include<stdbool.h>
+
+struct ListNode {
+    int val;
+    struct ListNode *next;
+};
+
 bool hasCycle(struct ListNode *head) {
     struct ListNode *slow=head, *fast=head;
 

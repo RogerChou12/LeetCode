@@ -1,3 +1,5 @@
+#include<stdbool.h>
+
 bool containsDuplicate(int* nums, int numsSize) {
     int min=nums[0], max=nums[0];
 

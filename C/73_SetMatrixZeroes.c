@@ -1,3 +1,5 @@
+#include<stdbool.h>
+
 void setZeroes(int** matrix, int matrixSize, int* matrixColSize) {
     bool firstRow=0, firstCol=0;
     // Check if the first column has a zero

@@ -3,6 +3,9 @@
  * The sizes of the arrays are returned as *returnColumnSizes array.
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
  */
+#include<stdio.h>
+#include<stdbool.h>
+
 void dfs(int** heights, int heightsSize, int* heightsColSize, bool** visited, int row, int col){
     if(visited[row][col]) return;
     visited[row][col] = true;
@@ -15,6 +18,7 @@ void dfs(int** heights, int heightsSize, int* heightsColSize, bool** visited, in
         }
     }
 }
+
 int** pacificAtlantic(int** heights, int heightsSize, int* heightsColSize, int* returnSize, int** returnColumnSizes) {
     if(heightsSize==0 || *heightsColSize==0){
         (*returnSize) = 0;

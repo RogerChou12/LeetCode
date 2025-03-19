@@ -6,7 +6,7 @@
   Medium [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/?envType=problem-list-v2&envId=oizxjoit)  
   Medium [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=problem-list-v2&envId=oizxjoit)  
   Easy [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=oizxjoit)  
-  Medium [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)  
+  Medium [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit)  

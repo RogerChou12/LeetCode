@@ -7,6 +7,7 @@
   Medium [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=problem-list-v2&envId=oizxjoit)  
   Easy [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=oizxjoit)  
   Medium [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  
+  Easy [27. Remove Element](https://leetcode.com/problems/remove-element/description/) [[C](C/27_RemoveElement.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit)  

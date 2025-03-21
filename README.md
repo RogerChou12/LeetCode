@@ -10,6 +10,7 @@
   Easy [27. Remove Element](https://leetcode.com/problems/remove-element/description/) [[C](C/27_RemoveElement.c)] [[C](C/27_RemoveElement.c)]  
   Medium [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [[C](C/82_RemoveDuplicatesfromSortedListII.c)]  
   Medium [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) [[C](C/31_NextPermutation.c)]  
+  Medium [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) [[C](C/75_SortColors.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

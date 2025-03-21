@@ -8,6 +8,7 @@
   Easy [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/?envType=problem-list-v2&envId=oizxjoit) [[C](C/125_ValidPalindrome.c)]  
   Medium [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) [[C](C/26_RemoveDuplicatesfromSortedArray.c)]  
   Easy [27. Remove Element](https://leetcode.com/problems/remove-element/description/) [[C](C/27_RemoveElement.c)] [[C](C/27_RemoveElement.c)]  
+  Medium [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/) [[C](C/82_RemoveDuplicatesfromSortedListII.c)]
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

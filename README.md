@@ -13,6 +13,7 @@
   Medium [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) [[C](C/75_SortColors.c)]  
   Easy [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) [[C](C/88_MergeSortedArray.c)]  
   Medium [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1584057333/) [[C](C/142_LinkedListCycleII.c)]  
+  Medium [148. Sort List](https://leetcode.com/problems/sort-list/description/) [[C](C/148_SortList.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

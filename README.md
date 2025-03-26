@@ -15,6 +15,7 @@
   Medium [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1584057333/) [[C](C/142_LinkedListCycleII.c)]  
   Medium [148. Sort List](https://leetcode.com/problems/sort-list/description/) [[C](C/148_SortList.c)]  
   Medium [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) [[C](C/151_ReverseWordsinaString.c)]  
+  Easy [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [[C](C/160_IntersectionofTwoLinkedLists.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

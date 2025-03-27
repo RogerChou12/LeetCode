@@ -16,6 +16,7 @@
   Medium [148. Sort List](https://leetcode.com/problems/sort-list/description/) [[C](C/148_SortList.c)]  
   Medium [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) [[C](C/151_ReverseWordsinaString.c)]  
   Easy [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [[C](C/160_IntersectionofTwoLinkedLists.c)]  
+  Medium [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1587615218/) [[C](C/167_TwoSumII_InputArrayIsSorted.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

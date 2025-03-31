@@ -18,6 +18,7 @@
   Easy [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [[C](C/160_IntersectionofTwoLinkedLists.c)]  
   Medium [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1587615218/) [[C](C/167_TwoSumII_InputArrayIsSorted.c)]  
   Medium [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) [[C](C/189_RotateArray.c)]  
+  Easy [202. Happy Number](https://leetcode.com/problems/happy-number/description/) [[C](C/202_HappyNumber.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

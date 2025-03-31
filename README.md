@@ -20,6 +20,7 @@
   Medium [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) [[C](C/189_RotateArray.c)]  
   Easy [202. Happy Number](https://leetcode.com/problems/happy-number/description/) [[C](C/202_HappyNumber.c)]  
   Easy [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) [[C](C/234_PalindromeLinkedList.c)]  
+  Easy [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) [[C](C/283_MoveZeroes.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

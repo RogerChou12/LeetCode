@@ -24,6 +24,7 @@
   Medium [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) [[C](C/287_FindtheDuplicateNumber.c)]  
   Easy [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) [[C](C/344_ReverseString.c)]  
   Easy [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) [[C](C/345_ReverseVowelsofaString.c)]  
+  Easy [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) [[C](C/349_IntersectionofTwoArrays.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

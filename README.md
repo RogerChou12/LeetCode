@@ -23,6 +23,7 @@
   Easy [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) [[C](C/283_MoveZeroes.c)]  
   Medium [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) [[C](C/287_FindtheDuplicateNumber.c)]  
   Easy [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) [[C](C/344_ReverseString.c)]  
+  Easy [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) [[C](C/345_ReverseVowelsofaString.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

@@ -27,6 +27,7 @@
   Easy [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) [[C](C/557_ReverseWordsinaStringIII.c)]  
   Medium [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) [[C](C/611_ValidTriangleNumber.c)]  
   Medium [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)  [[C](C/763_PartitionLabels.c)]  
+  Medium [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) [[C](C/969_PancakeSorting.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

@@ -28,6 +28,7 @@
   Medium [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) [[C](C/611_ValidTriangleNumber.c)]  
   Medium [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)  [[C](C/763_PartitionLabels.c)]  
   Medium [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) [[C](C/969_PancakeSorting.c)]  
+  Medium [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) [[C](C/1679_MaxNumberofK-SumPairs.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

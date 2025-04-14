@@ -30,6 +30,7 @@
   Medium [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) [[C](C/969_PancakeSorting.c)]  
   Medium [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) [[C](C/1679_MaxNumberofK-SumPairs.c)]  
   Medium [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) [[C](C/1721_SwappingNodesinaLinkedList.c)]  
+  Medium [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) [[C](C/2130_MaximumTwinSumofaLinkedList.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

@@ -35,6 +35,7 @@
   Medium [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) [[C](C/2130_MaximumTwinSumofaLinkedList.c)]  
   Medium [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) [[C](C/2149_RearrangeArrayElementsbySign.c)]  
   Medium [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) [[C](C/2161_PartitionArrayAccordingtoGivenPivot.c)]  
+  Medium [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) [[C](C/2300_SuccessfulPairsofSpellsandPotions.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

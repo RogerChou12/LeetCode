@@ -31,6 +31,7 @@
   Medium [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) [[C](C/1679_MaxNumberofK-SumPairs.c)]  
   Medium [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) [[C](C/1721_SwappingNodesinaLinkedList.c)]  
   Medium [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) [[C](C/1877_MinimizeMaximumPairSuminArray.c)]  
+  Easy [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/2000_ReversePrefixofWord.c)]  
   Medium [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) [[C](C/2095_DeletetheMiddleNodeofaLinkedList.c)]  
   Medium [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) [[C](C/2130_MaximumTwinSumofaLinkedList.c)]  
   Medium [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) [[C](C/2149_RearrangeArrayElementsbySign.c)]  

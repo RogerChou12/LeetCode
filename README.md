@@ -39,6 +39,7 @@
   Medium [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) [[C](C/2300_SuccessfulPairsofSpellsandPotions.c)]  
   Easy [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/submissions/1616152109/?envType=problem-list-v2&envId=two-pointers) [[C](C/2824_CountPairsWhoseSumisLessthanTarget.c)]  
   Medium [3239. Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/3239_MinimumNumberofFlipstoMakeBinaryGridPalindromicI.c)]  
+  Medium [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/1768_MergeStringsAlternately.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

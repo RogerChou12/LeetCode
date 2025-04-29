@@ -28,6 +28,7 @@
   Medium [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) [[C](C/611_ValidTriangleNumber.c)]  
   Medium [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)  [[C](C/763_PartitionLabels.c)]  
   Medium [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) [[C](C/969_PancakeSorting.c)]  
+  Easy [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1620682358/?envType=problem-list-v2&envId=two-pointers) [[C](C/977_SquaresofaSortedArray.c)]  
   Medium [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) [[C](C/1679_MaxNumberofK-SumPairs.c)]  
   Medium [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) [[C](C/1721_SwappingNodesinaLinkedList.c)]  
   Medium [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) [[C](C/1877_MinimizeMaximumPairSuminArray.c)]  

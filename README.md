@@ -27,10 +27,12 @@
   Easy [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) [[C](C/557_ReverseWordsinaStringIII.c)]  
   Medium [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) [[C](C/611_ValidTriangleNumber.c)]  
   Medium [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)  [[C](C/763_PartitionLabels.c)]  
+  Easy [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1621552778/?envType=problem-list-v2&envId=two-pointers) [[C](C/876_MiddleoftheLinkedList.c)]  
   Medium [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) [[C](C/969_PancakeSorting.c)]  
   Easy [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1620682358/?envType=problem-list-v2&envId=two-pointers) [[C](C/977_SquaresofaSortedArray.c)]  
   Medium [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) [[C](C/1679_MaxNumberofK-SumPairs.c)]  
   Medium [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) [[C](C/1721_SwappingNodesinaLinkedList.c)]  
+  Medium [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/1768_MergeStringsAlternately.c)]  
   Medium [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/) [[C](C/1877_MinimizeMaximumPairSuminArray.c)]  
   Easy [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/2000_ReversePrefixofWord.c)]  
   Medium [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) [[C](C/2095_DeletetheMiddleNodeofaLinkedList.c)]  
@@ -40,7 +42,6 @@
   Medium [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) [[C](C/2300_SuccessfulPairsofSpellsandPotions.c)]  
   Easy [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/submissions/1616152109/?envType=problem-list-v2&envId=two-pointers) [[C](C/2824_CountPairsWhoseSumisLessthanTarget.c)]  
   Medium [3239. Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/3239_MinimumNumberofFlipstoMakeBinaryGridPalindromicI.c)]  
-  Medium [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/1768_MergeStringsAlternately.c)]  
 
 ## Bit Manipulation
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  

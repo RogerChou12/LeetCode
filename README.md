@@ -27,6 +27,7 @@
   Easy [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) [[C](C/557_ReverseWordsinaStringIII.c)]  
   Medium [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) [[C](C/611_ValidTriangleNumber.c)]  
   Medium [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/)  [[C](C/763_PartitionLabels.c)]  
+  Easy [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/832_FlippinganImage.c)]  
   Easy [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1621552778/?envType=problem-list-v2&envId=two-pointers) [[C](C/876_MiddleoftheLinkedList.c)]  
   Medium [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) [[C](C/969_PancakeSorting.c)]  
   Easy [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1620682358/?envType=problem-list-v2&envId=two-pointers) [[C](C/977_SquaresofaSortedArray.c)]  

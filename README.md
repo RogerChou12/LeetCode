@@ -51,11 +51,12 @@
   Medium [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/371_SumofTwoIntegers.c)]  
 
 ## Linked List
-  Easy [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=problem-list-v2&envId=oizxjoit) [[C](C/141_LinkedListCycle.c)]  
-  Medium [143. Reorder List](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=oizxjoit) [[C](C/143_ReorderList.c)]  
   Medium [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=problem-list-v2&envId=oizxjoit) [[C](C/19_RemoveNthNodeFromEndofList.c)]  
   Easy [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/21_MergeTwoSortedLists.c)]  
   Hard [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/23_MergekSortedLists.c)]  
+  Easy [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/?envType=problem-list-v2&envId=linked-list) [[C](C/83_RemoveDuplicatesfromSortedList.c)]  
+  Easy [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=problem-list-v2&envId=oizxjoit) [[C](C/141_LinkedListCycle.c)]  
+  Medium [143. Reorder List](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=oizxjoit) [[C](C/143_ReorderList.c)]  
   Easy [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=problem-list-v2&envId=oizxjoit) [[C](C/206_ReverseLinkedList.c)]  
 
 ## String

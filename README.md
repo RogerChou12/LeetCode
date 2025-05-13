@@ -61,6 +61,7 @@
   Easy [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/?envType=problem-list-v2&envId=oizxjoit) [[C](C/141_LinkedListCycle.c)]  
   Medium [143. Reorder List](https://leetcode.com/problems/reorder-list/?envType=problem-list-v2&envId=oizxjoit) [[C](C/143_ReorderList.c)]  
   Easy [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=problem-list-v2&envId=oizxjoit) [[C](C/206_ReverseLinkedList.c)]  
+  Medium [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=problem-list-v2&envId=linked-list) [[C](C/237_DeleteNodeinaLinkedList.c)]  
 
 ## String
   Medium [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1189739132/?envType=problem-list-v2&envId=oizxjoit) [[C](C/1143_LongestCommonSubsequence.c)]  

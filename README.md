@@ -45,6 +45,7 @@
   Medium [3239. Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/3239_MinimumNumberofFlipstoMakeBinaryGridPalindromicI.c)]  
 
 ## Bit Manipulation
+  Medium [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/29_DivideTwoIntegers.c)]  
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  
   Easy [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/191_Numberof1Bits.c)]  
   Easy [338. Counting Bits](https://leetcode.com/problems/counting-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/338_CountingBits.c)]  

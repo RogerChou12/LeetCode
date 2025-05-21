@@ -49,6 +49,7 @@
   Medium [78. Subsets](https://leetcode.com/problems/subsets/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/78_Subsets.c)]  
   Medium [89. Gray Code](https://leetcode.com/problems/gray-code/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/89_GrayCode.c)]  
   Easy [136. Single Number](https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/136_SingleNumber.c)]  
+  Medium [137. Single Number II](https://leetcode.com/problems/single-number-ii/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/137_SingleNumberII.c)]  
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  
   Easy [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/191_Numberof1Bits.c)]  
   Easy [338. Counting Bits](https://leetcode.com/problems/counting-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/338_CountingBits.c)]  

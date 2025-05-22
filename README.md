@@ -52,6 +52,7 @@
   Medium [137. Single Number II](https://leetcode.com/problems/single-number-ii/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/137_SingleNumberII.c)]  
   Easy [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/190_ReverseBits.c)]  
   Easy [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/191_Numberof1Bits.c)]  
+  Medium [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/287_FindtheDuplicateNumber.c)]  
   Easy [338. Counting Bits](https://leetcode.com/problems/counting-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/338_CountingBits.c)]  
   Medium [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/371_SumofTwoIntegers.c)]  
 

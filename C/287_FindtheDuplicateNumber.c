@@ -1,15 +1,10 @@
 int findDuplicate(int* nums, int numsSize) {
-    int slow=nums[0], fast=nums[nums[0]];
-    // find the circle
-    while(slow != fast){
-        slow = nums[slow];
-        fast = nums[nums[fast]];
+    for(int i=0;i<numsSize;i++){
+        int idx = abs(nums[i]);
+        if(nums[idx]<0){
+            return idx;
+        }
+        nums[idx] = -nums[idx]; // Mark visited value
     }
-    // find the start of circle
-    fast = 0;
-    while(fast != slow){
-        slow = nums[slow];
-        fast = nums[fast];
-    }
-    return fast;
+    return numsSize;
 }

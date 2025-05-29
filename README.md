@@ -55,6 +55,7 @@
   Medium [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/287_FindtheDuplicateNumber.c)]  
   Easy [338. Counting Bits](https://leetcode.com/problems/counting-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/338_CountingBits.c)]  
   Medium [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/371_SumofTwoIntegers.c)]  
+  Easy [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/461_HammingDistance.c)]  
   Medium [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/784_LetterCasePermutation.c)]  
 
 ## Linked List

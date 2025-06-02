@@ -54,6 +54,7 @@
   Easy [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/191_Numberof1Bits.c)]  
   Medium [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/287_FindtheDuplicateNumber.c)]  
   Easy [338. Counting Bits](https://leetcode.com/problems/counting-bits/?envType=problem-list-v2&envId=oizxjoit) [[C](C/338_CountingBits.c)]  
+  Easy [342. Power of Four](https://leetcode.com/problems/power-of-four/submissions/1651203682/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/342_PowerofFour.c)]  
   Medium [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/371_SumofTwoIntegers.c)]  
   Easy [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/461_HammingDistance.c)]  
   Medium [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/784_LetterCasePermutation.c)]  

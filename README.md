@@ -58,6 +58,7 @@
   Medium [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/371_SumofTwoIntegers.c)]  
   Easy [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/461_HammingDistance.c)]  
   Medium [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/784_LetterCasePermutation.c)]  
+  Easy [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1720_DecodeXORedArray.c)]  
   Medium [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2044_CountNumberofMaximumBitwise-ORSubsets.c)]  
   Medium [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2433_FindTheOriginalArrayofPrefixXor.c)]  
 

@@ -61,6 +61,7 @@
   Easy [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1720_DecodeXORedArray.c)]  
   Medium [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2044_CountNumberofMaximumBitwise-ORSubsets.c)]  
   Medium [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2433_FindTheOriginalArrayofPrefixXor.c)]  
+  Easy [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3370_SmallestNumberWithAllSetBits.c)]  
 
 ## Linked List
   Medium [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=problem-list-v2&envId=oizxjoit) [[C](C/19_RemoveNthNodeFromEndofList.c)]  

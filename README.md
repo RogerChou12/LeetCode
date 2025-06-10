@@ -61,6 +61,7 @@
   Easy [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1720_DecodeXORedArray.c)]  
   Medium [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2044_CountNumberofMaximumBitwise-ORSubsets.c)]  
   Medium [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2433_FindTheOriginalArrayofPrefixXor.c)]  
+  Medium [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2657_FindthePrefixCommonArrayofTwoArrays.c)]  
   Easy [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3370_SmallestNumberWithAllSetBits.c)]  
 
 ## Linked List

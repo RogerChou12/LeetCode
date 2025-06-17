@@ -66,6 +66,7 @@
   Medium [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2433_FindTheOriginalArrayofPrefixXor.c)]  
   Medium [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2657_FindthePrefixCommonArrayofTwoArrays.c)]  
   Medium [2997. Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2997_MinimumNumberofOperationstoMakeArrayXOREqualtoK.c)]  
+  Easy [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3304_FindtheK-thCharacterinStringGameI.c)]  
   Easy [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3370_SmallestNumberWithAllSetBits.c)]  
 
 ## Linked List

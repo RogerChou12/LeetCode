@@ -58,6 +58,7 @@
   Medium [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/371_SumofTwoIntegers.c)]  
   Easy [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/461_HammingDistance.c)]  
   Medium [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/784_LetterCasePermutation.c)]  
+  Medium [861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/861_ScoreAfterFlippingMatrix.c)]  
   Medium [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1442_CountTripletsThatCanFormTwoArraysofEqualXOR.c)]  
   Easy [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1720_DecodeXORedArray.c)]  
   Medium [1829. Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1829_MaximumXORforEachQuery.c)]  

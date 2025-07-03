@@ -69,6 +69,7 @@
   Medium [2305. Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2305_FairDistributionofCookies.c)]  
   Medium [2317. Maximum XOR After Operations ](https://leetcode.com/problems/maximum-xor-after-operations/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2317_MaximumXORAfterOperations.c)]  
   Medium [2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2425_BitwiseXORofAllPairings.c)]  
+  Medium [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2429_MinimizeXOR.c)]  
   Medium [2433. Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2433_FindTheOriginalArrayofPrefixXor.c)]  
   Medium [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2657_FindthePrefixCommonArrayofTwoArrays.c)]  
   Medium [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/submissions/1670006196/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2683_NeighboringBitwiseXOR.c)]  

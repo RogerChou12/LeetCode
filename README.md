@@ -57,6 +57,7 @@
   Easy [342. Power of Four](https://leetcode.com/problems/power-of-four/submissions/1651203682/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/342_PowerofFour.c)]  
   Medium [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/371_SumofTwoIntegers.c)]  
   Easy [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/461_HammingDistance.c)]  
+  Medium [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/779_K-thSymbolinGrammar.c)]  
   Medium [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/784_LetterCasePermutation.c)]  
   Medium [861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/861_ScoreAfterFlippingMatrix.c)]  
   Medium [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1239_MaximumLengthofaConcatenatedStringwithUniqueCharacters.c)]  

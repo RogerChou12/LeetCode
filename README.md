@@ -95,6 +95,7 @@
   Easy [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/?envType=problem-list-v2&envId=oizxjoit) [[C](C/206_ReverseLinkedList.c)]  
   Medium [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=problem-list-v2&envId=linked-list) [[C](C/237_DeleteNodeinaLinkedList.c)]  
   Medium [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/?envType=problem-list-v2&envId=linked-list) [[C](C/328_OddEvenLinkedList.c)]  
+  Easy [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=daily-question&envId=2025-07-14) [[C](C/1290_ConvertBinaryNumberinaLinkedListtoInteger.c)]  
 
 ## String
   Medium [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1189739132/?envType=problem-list-v2&envId=oizxjoit) [[C](C/1143_LongestCommonSubsequence.c)]  

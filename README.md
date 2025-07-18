@@ -45,6 +45,7 @@
   Medium [3132. Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/3132_FindtheIntegerAddedtoArrayII.c)]  
   Medium [3239. Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/3239_MinimumNumberofFlipstoMakeBinaryGridPalindromicI.c)]  
   Medium [3240. Minimum Number of Flips to Make Binary Grid Palindromic II](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/3240_MinimumNumberofFlipstoMakeBinaryGridPalindromicII.c)]  
+  Medium [3403. Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/?envType=problem-list-v2&envId=two-pointers) [[C](C/3403_FindtheLexicographicallyLargestStringFromtheBoxI.c)]  
 
 ## Bit Manipulation
   Medium [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/29_DivideTwoIntegers.c)]  

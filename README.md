@@ -102,6 +102,7 @@
 
 ## String
   Medium [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1189739132/?envType=problem-list-v2&envId=oizxjoit) [[C](C/1143_LongestCommonSubsequence.c)]  
+  Easy [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/?envType=daily-question&envId=2025-07-21) [[C](C/1957_DeleteCharacterstoMakeFancyString.c)]  
   Easy [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15) [[C](C/3136_ValidWord.c)]  
 
 ## Array

@@ -150,6 +150,7 @@
 
 ## Stack
   Easy [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/20_ValidParentheses.c)]  
+  Medium [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2025-07-23) [[C](C/1717_MaximumScoreFromRemovingSubstrings.c)]  
 
 ## Binary Search
   Medium [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/153_FindMinimuminRotatedSortedArray.c)]  

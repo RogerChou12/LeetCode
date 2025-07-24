@@ -2,6 +2,7 @@
 
 ## Two Pointers
   Medium [15. 3Sum](https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=oizxjoit) [[Python](Python/15_3Sum.py)] [[C](C/15_3Sum.c)]  
+  Medium [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/16_3SumClosest.c)]  
   Medium [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=oizxjoit) [[C](C/5_LongestPalindromicSubstring.c)]  
   Medium [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/?envType=problem-list-v2&envId=oizxjoit) [[C](C/647_PalindromicSubstrings.c)]  
   Medium [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?envType=problem-list-v2&envId=oizxjoit)[[C](C/11_ContainerWithMostWater.c)]  

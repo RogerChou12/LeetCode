@@ -111,6 +111,7 @@
   Easy [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15) [[C](C/3136_ValidWord.c)]  
 
 ## Array
+  Easy [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/?envType=daily-question&envId=2025-08-01) [[C](C/118_Pascal'sTriangle.c)]  
   Medium [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/?envType=problem-list-v2&envId=oizxjoit) [[Python](Python/128_LongestConsecutiveSequence.py)]  
   Easy [1. Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/1_TwoSum.c)]  
   Medium [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/48_RotateImage.c)]  

@@ -121,6 +121,7 @@
   Medium [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/56_MergeIntervals.c)]  
   Medium [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/57_InsertInterval.c)]  
   Medium [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/238_ProductofArrayExceptSelf.c)]  
+  Easy [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/?envType=daily-question&envId=2025-08-05) [[C](C/3477_FruitsIntoBasketsII.c)]  
 
 ## Sliding Window
   Medium [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/3_LongestSubstringWithoutRepeatingCharacters.c)]  

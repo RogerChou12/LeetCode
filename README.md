@@ -159,6 +159,7 @@
 ## Math
   Medium [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/62_UniquePaths.c)]  
   Easy [268. Missing Number](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/268_MissingNumber.c)]  
+  Easy [326. Power of Three](https://leetcode.com/problems/power-of-three/description/?envType=daily-question&envId=2025-08-13) [[C](C/326_PowerofThree.c)]  
   Medium [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08) [[C](C/808_SoupServings.c)]  
 
 ## Stack

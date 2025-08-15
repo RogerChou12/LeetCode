@@ -96,6 +96,7 @@
   Hard [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/23_MergekSortedLists.c)]  
   Medium [61. Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/61_RotateList.c)]  
   Easy [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/?envType=problem-list-v2&envId=linked-list) [[C](C/83_RemoveDuplicatesfromSortedList.c)]  
+  Medium [86. Partition List](https://leetcode.com/problems/partition-list/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/86_PartitionList.c)]  
   Medium [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=problem-list-v2&envId=linked-list) [[C](C/92_ReverseLinkedListII.c)]  
   Medium [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=problem-list-v2&envId=linked-list) [[C](C/114_FlattenBinaryTreetoLinkedList.c)]  
   Medium [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/?envType=problem-list-v2&envId=linked-list) [[C](C/116_PopulatingNextRightPointersinEachNode.c)]  

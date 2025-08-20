@@ -153,6 +153,7 @@
   Medium [213. House Robber II](https://leetcode.com/problems/house-robber-ii/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/213_HouseRobberII.c)]  
   Medium [91. Decode Ways](https://leetcode.com/problems/decode-ways/submissions/1127815992/?envType=problem-list-v2&envId=oizxjoit) [[C](C/91_DecodeWays.c)]  
   Easy [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=problem-list-v2&envId=oizxjoit) [[C](C/121_BestTimetoBuyandSellStock.c)]  
+  Medium [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-20) [[C](C/1277_CountSquareSubmatriceswithAllOnes.c)]  
   Medium [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/?envType=daily-question&envId=2025-08-12) [[C](C/2787_WaystoExpressanIntegerasSumofPowers.c)]  
 
 ## Greedy

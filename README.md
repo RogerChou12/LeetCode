@@ -124,6 +124,7 @@
   Medium [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/56_MergeIntervals.c)]  
   Medium [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/57_InsertInterval.c)]  
   Medium [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/238_ProductofArrayExceptSelf.c)]  
+  Medium [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25) [[C](C/498_DiagonalTraverse.c)]  
   Medium [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11) [[C](C/2438_RangeProductQueriesofPowers.c)]  
   Easy [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/?envType=daily-question&envId=2025-08-05) [[C](C/3477_FruitsIntoBasketsII.c)]  
   Medium [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06) [[C](C/3479_FruitsIntoBasketsIII.c)]  

@@ -1,40 +1,40 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
-int* findDiagonalOrder(int** mat, int matSize, int* matColSize, int* returnSize) {
-    int *ans=malloc(sizeof(int)*(matSize*matColSize[0]));
-    int start=0, row=0, col=0, idx=0;
+#include<stdbool.h>
 
-    for(start=0;start<(matSize+matColSize[0]-1);start++){
-        if(start<matColSize[0]){
-            row=0;
-            col=start;
+ int* findDiagonalOrder(int** mat, int matSize, int* matColSize, int* returnSize) {
+    int *ans=malloc(sizeof(int)*(matSize*matColSize[0]+1));
+    bool directionUP=1;
+    int row=0, col=0;
+    (*returnSize)=0;
+
+    while(row<matSize && col<matColSize[0]){
+        int new_row, new_col;
+        ans[(*returnSize)++]=mat[row][col];
+        if(directionUP){
+            new_row=row-1;
+            new_col=col+1;
         }
         else{
-            row=start-matColSize[0]+1;
-            col=matColSize[0]-1;
+            new_row=row+1;
+            new_col=col-1;
         }
-
-        int temp[matSize];
-        int count=0;
-        for(int i=0;i<matSize && row<matSize && col>=0;i++){
-            temp[i]=mat[row][col];
-            row++;
-            col--;
-            count++;
-        }
-
-        if(start%2){
-            for(int j=0;j<count;j++){
-                ans[idx++]=temp[j];
+        if(new_row<0 || new_col<0 || new_row==matSize || new_col==matColSize[0]){
+            if(directionUP){
+                row=(col==matColSize[0]-1)?(row+1):row;
+                col=(col<matColSize[0]-1)?(col+1):col;
             }
+            else{
+                col=(row==matSize-1)?(col+1):col;
+                row=(row<matSize-1)?(row+1):row;
+            }
+            directionUP=!directionUP; // Flip the direction
         }
         else{
-            for(int j=count-1;j>=0;j--){
-                ans[idx++]=temp[j];
-            }
+            row=new_row;
+            col=new_col;
         }
     }
-    (*returnSize)=idx;
     return ans;
 }

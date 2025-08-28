@@ -127,6 +127,7 @@
   Medium [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25) [[C](C/498_DiagonalTraverse.c)]  
   Medium [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11) [[C](C/2438_RangeProductQueriesofPowers.c)]  
   Easy [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26) [[C](C/3000_MaximumAreaofLongestDiagonalRectangle.c)]  
+  Medium [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/?envType=daily-question&envId=2025-08-28) [[C](C/3446_SortMatrixbyDiagonals.c)]  
   Easy [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/?envType=daily-question&envId=2025-08-05) [[C](C/3477_FruitsIntoBasketsII.c)]  
   Medium [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06) [[C](C/3479_FruitsIntoBasketsIII.c)]  
 

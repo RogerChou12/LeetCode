@@ -170,6 +170,7 @@
   Easy [326. Power of Three](https://leetcode.com/problems/power-of-three/description/?envType=daily-question&envId=2025-08-13) [[C](C/326_PowerofThree.c)]  
   Medium [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08) [[C](C/808_SoupServings.c)]  
   Medium [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19) [[C](C/2348_NumberofZero-FilledSubarrays.c)]  
+  Medium [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29) [[C](C/3021_AliceandBobPlayingFlowerGame.c)]  
 
 ## Stack
   Easy [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/20_ValidParentheses.c)]  

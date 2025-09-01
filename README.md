@@ -162,7 +162,8 @@
   Hard [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27) [[C](C/3459_LengthofLongestV-ShapedDiagonalSegment.c)]  
 
 ## Greedy
-  Medium [55. Jump Game](https://leetcode.com/problems/jump-game/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/55_JumpGame.c)]
+  Medium [55. Jump Game](https://leetcode.com/problems/jump-game/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/55_JumpGame.c)]  
+  Medium [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01) [[C](C/1792_MaximumAveragePassRatio.c)]  
 
 ## Math
   Medium [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/62_UniquePaths.c)]  

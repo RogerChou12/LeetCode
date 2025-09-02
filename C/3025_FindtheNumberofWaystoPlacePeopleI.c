@@ -1,0 +1,25 @@
+int cmpIntx(const void* a, const void* b){
+    int *pa=*(int**)a;
+    int *pb=*(int**)b;
+    if(pa[0]==pb[0]){
+        return pb[1]-pa[1];
+    }
+    return pa[0]-pb[0];
+}
+int numberOfPairs(int** points, int pointsSize, int* pointsColSize) {
+    qsort(points, pointsSize, sizeof(int*), cmpIntx);
+    int count=0;
+    for(int i=0;i<pointsSize;i++){
+        printf("(%d, %d)\n", points[i][0], points[i][1]);
+        int min_y=-1;
+        for(int j=i+1;j<pointsSize;j++){
+            if(points[i][1]>=points[j][1]){
+                if(points[j][1]>min_y){
+                    min_y=points[j][1];
+                    count++;
+                }
+            }
+        }
+    }
+    return count;
+}

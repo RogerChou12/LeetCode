@@ -5,6 +5,7 @@
         "vector": "cpp",
         "deque": "cpp",
         "string": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "3027_FindtheNumberofWaystoPlacePeopleII.C": "cpp"
     }
 }

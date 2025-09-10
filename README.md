@@ -167,6 +167,7 @@
 
 ## Greedy
   Medium [55. Jump Game](https://leetcode.com/problems/jump-game/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/55_JumpGame.c)]  
+  Medium [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/?envType=daily-question&envId=2025-09-10) [[Python](Python/1733_MinimumNumberofPeopletoTeach.py)]  
   Medium [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01) [[C++](C/1792_MaximumAveragePassRatio.cpp)]  
 
 ## Math

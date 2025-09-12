@@ -114,6 +114,7 @@
   Easy [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2025-08-14) [[C](C/2264_Largest3-Same-DigitNumberinString.c)]  
   Medium [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2025-09-11) [[C](C/2785_SortVowelsinaString.c)]  
   Easy [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15) [[C](C/3136_ValidWord.c)]  
+  Medium [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/?envType=daily-question&envId=2025-09-12) [[C](C/3227_VowelsGameinaString.c)]  
 
 ## Array
   Easy [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/?envType=daily-question&envId=2025-08-01) [[C](C/118_Pascal'sTriangle.c)]  

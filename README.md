@@ -110,6 +110,7 @@
 
 ## String
   Medium [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1189739132/?envType=problem-list-v2&envId=oizxjoit) [[C](C/1143_LongestCommonSubsequence.c)]  
+  Easy [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15) [[C](C/1935_MaximumNumberofWordsYouCanType.c)]  
   Easy [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/?envType=daily-question&envId=2025-07-21) [[C](C/1957_DeleteCharacterstoMakeFancyString.c)]  
   Easy [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2025-08-14) [[C](C/2264_Largest3-Same-DigitNumberinString.c)]  
   Medium [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2025-09-11) [[C](C/2785_SortVowelsinaString.c)]  

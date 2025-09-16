@@ -179,6 +179,7 @@
   Easy [326. Power of Three](https://leetcode.com/problems/power-of-three/description/?envType=daily-question&envId=2025-08-13) [[C](C/326_PowerofThree.c)]  
   Medium [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08) [[C](C/808_SoupServings.c)]  
   Easy [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/?envType=daily-question&envId=2025-09-08) [[C](C/1317_ConvertIntegertotheSumofTwoNo-ZeroIntegers.c)]  
+  Hard [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/?envType=daily-question&envId=2025-09-16) [[C](C/2197_ReplaceNon-CoprimeNumbersinArray.c)]  
   Medium [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19) [[C](C/2348_NumberofZero-FilledSubarrays.c)]  
   Medium [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29) [[C](C/3021_AliceandBobPlayingFlowerGame.c)]  
   Easy [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04) [[C](C/3516_FindClosestPerson.c)]  

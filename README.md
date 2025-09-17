@@ -203,7 +203,7 @@
   Easy [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1073054831/?envType=problem-list-v2&envId=oizxjoit) [[C](C/217_ContainsDuplicate.c)]  
   Medium [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/347_TopKFrequentElements.c)]  
   Easy [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=problem-list-v2&envId=oizxjoit) [[C](C/242_ValidAnagram.c)]  
-  Medium [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) [[C](C/2353_DesignaFoodRatingSystem.c)]  
+  Medium [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) [[C++](C/2353_DesignaFoodRatingSystem.cpp)]  
 
 ## Tree
   Medium [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/?envType=problem-list-v2&envId=oizxjoit) [[C](C/98_ValidateBinarySearchTree.c)]  

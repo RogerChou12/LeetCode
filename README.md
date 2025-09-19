@@ -33,6 +33,7 @@
   Easy [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1621552778/?envType=problem-list-v2&envId=two-pointers) [[C](C/876_MiddleoftheLinkedList.c)]  
   Medium [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/description/) [[C](C/969_PancakeSorting.c)]  
   Easy [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1620682358/?envType=problem-list-v2&envId=two-pointers) [[C](C/977_SquaresofaSortedArray.c)]  
+  Medium [1237. Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/1237_FindPositiveIntegerSolutionforaGivenEquation.c)] [[C++](C/1237_FindPositiveIntegerSolutionforaGivenEquation.cpp)]  
   Medium [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) [[C](C/1679_MaxNumberofK-SumPairs.c)]  
   Medium [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) [[C](C/1721_SwappingNodesinaLinkedList.c)]  
   Medium [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/1768_MergeStringsAlternately.c)]  

@@ -205,6 +205,7 @@
   Medium [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/347_TopKFrequentElements.c)]  
   Easy [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=problem-list-v2&envId=oizxjoit) [[C](C/242_ValidAnagram.c)]  
   Medium [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) [[C++](C/2353_DesignaFoodRatingSystem.cpp)]  
+  Easy [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2025-09-22) [[C](C/3005_CountElementsWithMaximumFrequency.c)]  
   Medium [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18) [[C++](C/3408_DesignTaskManager.cpp)]  
 
 ## Tree

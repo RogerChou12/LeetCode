@@ -17,6 +17,7 @@
   Medium [148. Sort List](https://leetcode.com/problems/sort-list/description/) [[C](C/148_SortList.c)]  
   Medium [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) [[C](C/151_ReverseWordsinaString.c)]  
   Easy [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [[C](C/160_IntersectionofTwoLinkedLists.c)]  
+  Medium [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/?envType=daily-question&envId=2025-09-23) [[C](C/165_CompareVersionNumbers.c)]  
   Medium [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1587615218/) [[C](C/167_TwoSumII_InputArrayIsSorted.c)]  
   Medium [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) [[C](C/189_RotateArray.c)]  
   Easy [202. Happy Number](https://leetcode.com/problems/happy-number/description/) [[C](C/202_HappyNumber.c)]  

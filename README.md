@@ -202,6 +202,7 @@
 ## Hash Table
   Medium [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/49_GroupAnagrams.c)] [[Python](Python/49_GroupAnagrams.py)]  
   Medium [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/73_SetMatrixZeroes.c)]  
+  Medium [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/?envType=daily-question&envId=2025-09-24) [[C](C/166_FractiontoRecurringDecimal.c)]  
   Easy [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1073054831/?envType=problem-list-v2&envId=oizxjoit) [[C](C/217_ContainsDuplicate.c)]  
   Medium [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/347_TopKFrequentElements.c)]  
   Easy [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=problem-list-v2&envId=oizxjoit) [[C](C/242_ValidAnagram.c)]  

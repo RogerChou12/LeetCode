@@ -155,6 +155,7 @@
   Medium [79. Word Search](https://leetcode.com/problems/word-search/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/79_WordSearch.c)]  
 
 ## Dynamic Programming
+  Medium [120. Triangle](https://leetcode.com/problems/triangle/description/?envType=daily-question&envId=2025-09-25) [[C](C/120_Triangle.c)]  
   Medium [139. Word Break](https://leetcode.com/problems/word-break/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/139_WordBreak.c)]  
   Medium [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/152_MaximumProductSubarray.c)]  
   Medium [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/300_LongestIncreasingSubsequence.c)]  

@@ -131,6 +131,7 @@
   Medium [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/57_InsertInterval.c)]  
   Medium [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/238_ProductofArrayExceptSelf.c)]  
   Medium [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25) [[C](C/498_DiagonalTraverse.c)]  
+  Medium [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30) [[C](C/2221_FindTriangularSumofanArray.c)]  
   Medium [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11) [[C](C/2438_RangeProductQueriesofPowers.c)]  
   Easy [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26) [[C](C/3000_MaximumAreaofLongestDiagonalRectangle.c)]  
   Medium [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02) [[C](C/3025_FindtheNumberofWaystoPlacePeopleI.c)]  

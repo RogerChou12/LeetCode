@@ -187,6 +187,7 @@
   Hard [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/?envType=daily-question&envId=2025-09-16) [[C](C/2197_ReplaceNon-CoprimeNumbersinArray.c)]  
   Medium [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19) [[C](C/2348_NumberofZero-FilledSubarrays.c)]  
   Medium [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29) [[C](C/3021_AliceandBobPlayingFlowerGame.c)]  
+  Medium [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02) [[C](C/3100_WaterBottlesII.c)]  
   Easy [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04) [[C](C/3516_FindClosestPerson.c)]  
 
 ## Stack

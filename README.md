@@ -116,6 +116,7 @@
   Easy [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/?envType=daily-question&envId=2025-07-21) [[C](C/1957_DeleteCharacterstoMakeFancyString.c)]  
   Easy [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2025-08-14) [[C](C/2264_Largest3-Same-DigitNumberinString.c)]  
   Medium [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2025-09-11) [[C](C/2785_SortVowelsinaString.c)]  
+  Hard [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/?envType=daily-question&envId=2025-10-17) [[C](C/3003_MaximizetheNumberofPartitionsAfterOperations.c)]  
   Easy [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15) [[C](C/3136_ValidWord.c)]  
   Medium [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/?envType=daily-question&envId=2025-09-12) [[C](C/3227_VowelsGameinaString.c)]  
 

@@ -202,6 +202,7 @@
   Medium [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/153_FindMinimuminRotatedSortedArray.c)]  
   Medium [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/33_SearchinRotatedSortedArray.c)]  
   Medium [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/?envType=problem-list-v2&envId=oizxjoit) [[C](C/235_LowestCommonAncestorofaBinarySearchTree.c)]  
+  Medium [3346. Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=daily-question&envId=2025-10-21) [[C](C/3346_MaximumFrequencyofanElementAfterPerformingOperationsI.c)]  
 
 ## Backtracking
   Medium [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/39_CombinationSum.c)]  

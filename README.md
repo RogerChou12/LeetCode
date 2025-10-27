@@ -188,6 +188,7 @@
   Medium [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08) [[C](C/808_SoupServings.c)]  
   Easy [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/?envType=daily-question&envId=2025-09-08) [[C](C/1317_ConvertIntegertotheSumofTwoNo-ZeroIntegers.c)]  
   Easy [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2025-10-01) [[C](C/1518_WaterBottles.c)]  
+  Medium [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/?envType=daily-question&envId=2025-10-27) [[C](C/2125_NumberofLaserBeamsinaBank.c)]  
   Hard [2197. Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/description/?envType=daily-question&envId=2025-09-16) [[C](C/2197_ReplaceNon-CoprimeNumbersinArray.c)]  
   Medium [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19) [[C](C/2348_NumberofZero-FilledSubarrays.c)]  
   Medium [2598. Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/description/?envType=daily-question&envId=2025-10-16) [[C](C/2598_SmallestMissingNon-negativeIntegerAfterOperations.c)]  

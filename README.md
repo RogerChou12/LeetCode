@@ -90,6 +90,7 @@
   Medium [2997. Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/2997_MinimumNumberofOperationstoMakeArrayXOREqualtoK.c)]  
   Medium [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3097_ShortestSubarrayWithORatLeastKII.c)]  
   Medium [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3133_MinimumArrayEnd.c)]  
+  Easy [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/?envType=daily-question&envId=2025-10-31) [[C](C/3289_TheTwoSneakyNumbersofDigitville.c)]  
   Easy [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3304_FindtheK-thCharacterinStringGameI.c)]  
   Easy [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3370_SmallestNumberWithAllSetBits.c)]  
 

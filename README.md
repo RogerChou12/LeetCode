@@ -205,6 +205,7 @@
 ## Stack
   Easy [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/20_ValidParentheses.c)]  
   Medium [1717. Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/description/?envType=daily-question&envId=2025-07-23) [[C](C/1717_MaximumScoreFromRemovingSubstrings.c)]  
+  Medium [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10) [[C](C/3542_MinimumOperationstoConvertAllElementstoZero.c)]  
 
 ## Binary Search
   Medium [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/153_FindMinimuminRotatedSortedArray.c)]  

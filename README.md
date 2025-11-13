@@ -185,6 +185,7 @@
   Medium [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/?envType=daily-question&envId=2025-09-10) [[Python](Python/1733_MinimumNumberofPeopletoTeach.py)]  
   Medium [1578. Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/?envType=daily-question&envId=2025-11-03)  [[C](C/1578_MinimumTimetoMakeRopeColorful.c)]  
   Medium [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01) [[C++](C/1792_MaximumAveragePassRatio.cpp)]  
+  Medium [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/description/?envType=daily-question&envId=2025-11-13) [[C](C/3228_MaximumNumberofOperationstoMoveOnestotheEnd.c)]  
 
 ## Math
   Medium [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/62_UniquePaths.c)]  

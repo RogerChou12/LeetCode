@@ -134,6 +134,7 @@
   Medium [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/57_InsertInterval.c)]  
   Medium [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/238_ProductofArrayExceptSelf.c)]  
   Medium [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25) [[C](C/498_DiagonalTraverse.c)]  
+  Easy [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/?envType=daily-question&envId=2025-11-17) [[C](C/1437_CheckIfAll1'sAreatLeastLengthKPlacesAway.c)]  
   Hard [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/?envType=daily-question&envId=2025-10-30)  [[C](C/1526_MinimumNumberofIncrementsonSubarraystoFormaTargetArray.c)]  
   Medium [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30) [[C](C/2221_FindTriangularSumofanArray.c)]  
   Medium [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11) [[C](C/2438_RangeProductQueriesofPowers.c)]  

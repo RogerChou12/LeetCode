@@ -233,6 +233,7 @@
   Easy [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1073054831/?envType=problem-list-v2&envId=oizxjoit) [[C](C/217_ContainsDuplicate.c)]  
   Medium [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/347_TopKFrequentElements.c)]  
   Easy [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/?envType=problem-list-v2&envId=oizxjoit) [[C](C/242_ValidAnagram.c)]  
+  Medium [1930. Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/?envType=daily-question&envId=2025-11-21) [[C](C/1930_UniqueLength-3PalindromicSubsequences.c)]  
   Easy [2273. Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/?envType=daily-question&envId=2025-10-13) [[C](C/2273_FindResultantArrayAfterRemovingAnagrams.c)]  
   Medium [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) [[C++](C/2353_DesignaFoodRatingSystem.cpp)]  
   Easy [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2025-09-22) [[C](C/3005_CountElementsWithMaximumFrequency.c)]  

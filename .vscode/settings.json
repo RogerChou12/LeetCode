@@ -8,5 +8,7 @@
         "unordered_map": "cpp",
         "3027_FindtheNumberofWaystoPlacePeopleII.C": "cpp",
         "set": "cpp"
-    }
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
 }

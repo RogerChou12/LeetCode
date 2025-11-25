@@ -199,6 +199,7 @@
   Easy [268. Missing Number](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/268_MissingNumber.c)]  
   Easy [326. Power of Three](https://leetcode.com/problems/power-of-three/description/?envType=daily-question&envId=2025-08-13) [[C](C/326_PowerofThree.c)]  
   Medium [808. Soup Servings](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08) [[C](C/808_SoupServings.c)]  
+  Medium [1015. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/description/?envType=daily-question&envId=2025-11-25) [[C](C/1015_SmallestIntegerDivisiblebyK.c)]  
   Easy [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/description/?envType=daily-question&envId=2025-09-08) [[C](C/1317_ConvertIntegertotheSumofTwoNo-ZeroIntegers.c)]  
   Easy [1518. Water Bottles](https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2025-10-01) [[C](C/1518_WaterBottles.c)]  
   Medium [2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/?envType=daily-question&envId=2025-10-27) [[C](C/2125_NumberofLaserBeamsinaBank.c)]  

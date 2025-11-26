@@ -183,6 +183,7 @@
   Medium [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-20) [[C](C/1277_CountSquareSubmatriceswithAllOnes.c)]  
   Medium [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21) [[C](C/1504_CountSubmatricesWithAllOnes.c)]  
   Medium [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/?envType=daily-question&envId=2025-09-09) [[C](C/2327_NumberofPeopleAwareofaSecret.c)]  
+  Hard [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26) [[C](C/2435_PathsinMatrixWhoseSumIsDivisiblebyK.c)]  
   Medium [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/?envType=daily-question&envId=2025-08-12) [[C](C/2787_WaystoExpressanIntegerasSumofPowers.c)]  
   Hard [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27) [[C](C/3459_LengthofLongestV-ShapedDiagonalSegment.c)]  
 

@@ -242,6 +242,7 @@
   Medium [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) [[C++](C/2353_DesignaFoodRatingSystem.cpp)]  
   Easy [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2025-09-22) [[C](C/3005_CountElementsWithMaximumFrequency.c)]  
   Easy [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/?envType=daily-question&envId=2025-11-04) [[C](C/3318_FindX-SumofAllK-LongSubarraysI.c)]  
+  Medium [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27) [[C](C/3381_MaximumSubarraySumWithLengthDivisiblebyK.c)]  
   Medium [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18) [[C++](C/3408_DesignTaskManager.cpp)]  
 
 ## Tree

@@ -160,7 +160,8 @@
 
 ## Breadth-First Search
   Medium [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=oizxjoit) [[Python](Python/133_CloneGraph.py)]  
-  Medium [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1036459804/?envType=problem-list-v2&envId=oizxjoit) [[C](C/102_BinaryTreeLevelOrderTraversal.c)]
+  Medium [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1036459804/?envType=problem-list-v2&envId=oizxjoit) [[C](C/102_BinaryTreeLevelOrderTraversal.c)]  
+  Hard [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2025-11-28) [[C](C/2872_MaximumNumberofK-DivisibleComponents.c)]  
 
 ## Depth-First Search
   Medium [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/?envType=problem-list-v2&envId=oizxjoit) [[C](C/417_PacificAtlanticWaterFlow.c)]  

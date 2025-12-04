@@ -247,6 +247,7 @@
   Medium [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27) [[C](C/3381_MaximumSubarraySumWithLengthDivisiblebyK.c)]  
   Medium [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18) [[C++](C/3408_DesignTaskManager.cpp)]  
   Medium [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/?envType=daily-question&envId=2025-12-02) [[C](C/3623_CountNumberofTrapezoidsI.c)]  
+  Hard [3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/description/?envType=daily-question&envId=2025-12-04) [[C](C/3625_CountNumberofTrapezoidsII.c)]  
 
 ## Tree
   Medium [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/?envType=problem-list-v2&envId=oizxjoit) [[C](C/98_ValidateBinarySearchTree.c)]  

@@ -117,6 +117,7 @@
   Medium [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/1189739132/?envType=problem-list-v2&envId=oizxjoit) [[C](C/1143_LongestCommonSubsequence.c)]  
   Easy [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15) [[C](C/1935_MaximumNumberofWordsYouCanType.c)]  
   Easy [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/?envType=daily-question&envId=2025-07-21) [[C](C/1957_DeleteCharacterstoMakeFancyString.c)]  
+  Medium [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/?envType=daily-question&envId=2025-12-04) [[C](C/2211_CountCollisionsonaRoad.c)]  
   Easy [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2025-08-14) [[C](C/2264_Largest3-Same-DigitNumberinString.c)]  
   Medium [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2025-09-11) [[C](C/2785_SortVowelsinaString.c)]  
   Hard [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/?envType=daily-question&envId=2025-10-17) [[C](C/3003_MaximizetheNumberofPartitionsAfterOperations.c)]  

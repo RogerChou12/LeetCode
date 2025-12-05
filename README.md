@@ -213,6 +213,7 @@
   Medium [3021. Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29) [[C](C/3021_AliceandBobPlayingFlowerGame.c)]  
   Medium [3100. Water Bottles II](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02) [[C](C/3100_WaterBottlesII.c)]  
   Easy [3354. Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/description/?envType=daily-question&envId=2025-10-28) [[C](C/3354_MakeArrayElementsEqualtoZero.c)]  
+  Easy [3432. Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/?envType=daily-question&envId=2025-12-05) [[C](C/3432_CountPartitionswithEvenSumDifference.c)]  
   Easy [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/?envType=daily-question&envId=2025-10-23) [[C](C/3461_CheckIfDigitsAreEqualinStringAfterOperationsI.c)]  
   Easy [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04) [[C](C/3516_FindClosestPerson.c)]  
 

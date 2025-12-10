@@ -217,6 +217,7 @@
   Easy [3432. Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/?envType=daily-question&envId=2025-12-05) [[C](C/3432_CountPartitionswithEvenSumDifference.c)]  
   Easy [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/?envType=daily-question&envId=2025-10-23) [[C](C/3461_CheckIfDigitsAreEqualinStringAfterOperationsI.c)]  
   Easy [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04) [[C](C/3516_FindClosestPerson.c)]  
+  Medium [3577. Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/description/?envType=daily-question&envId=2025-12-10) [[C](C/3577_CounttheNumberofComputerUnlockingPermutations.c)]  
 
 ## Stack
   Easy [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/20_ValidParentheses.c)]  

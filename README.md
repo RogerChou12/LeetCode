@@ -250,6 +250,7 @@
   Easy [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/?envType=daily-question&envId=2025-11-04) [[C](C/3318_FindX-SumofAllK-LongSubarraysI.c)]  
   Medium [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27) [[C](C/3381_MaximumSubarraySumWithLengthDivisiblebyK.c)]  
   Medium [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18) [[C++](C/3408_DesignTaskManager.cpp)]  
+  Medium [3531. Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/description/?envType=daily-question&envId=2025-12-11) [[C](C/3531_CountCoveredBuildings.c)]  
   Medium [3583. Count Special Triplets](https://leetcode.com/problems/count-special-triplets/description/?envType=daily-question&envId=2025-12-09) [[C](C/3583_CountSpecialTriplets.c)]  
   Medium [3623. Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i/description/?envType=daily-question&envId=2025-12-02) [[C](C/3623_CountNumberofTrapezoidsI.c)]  
   Hard [3625. Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/description/?envType=daily-question&envId=2025-12-04) [[C](C/3625_CountNumberofTrapezoidsII.c)]  

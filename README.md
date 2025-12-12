@@ -149,6 +149,7 @@
   Medium [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/?envType=daily-question&envId=2025-09-03) [[C](C/3027_FindtheNumberofWaystoPlacePeopleII.c)]  
   Easy [3349. Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/description/?envType=daily-question&envId=2025-10-14) [[C](C/3349_AdjacentIncreasingSubarraysDetectionI.c)]  
   Medium [3350. Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/description/?envType=daily-question&envId=2025-10-15) [[C](C/3350_AdjacentIncreasingSubarraysDetectionII.c)]  
+  Medium [3433. Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/description/?envType=daily-question&envId=2025-12-12) [[C](C/3433_CountMentionsPerUser.c)]  
   Medium [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/?envType=daily-question&envId=2025-08-28) [[C](C/3446_SortMatrixbyDiagonals.c)]  
   Easy [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/?envType=daily-question&envId=2025-08-05) [[C](C/3477_FruitsIntoBasketsII.c)]  
   Medium [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06) [[C](C/3479_FruitsIntoBasketsIII.c)]  

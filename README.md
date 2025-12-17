@@ -190,6 +190,7 @@
   Hard [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26) [[C](C/2435_PathsinMatrixWhoseSumIsDivisiblebyK.c)]  
   Medium [2787. Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/?envType=daily-question&envId=2025-08-12) [[C](C/2787_WaystoExpressanIntegerasSumofPowers.c)]  
   Hard [3459. Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27) [[C](C/3459_LengthofLongestV-ShapedDiagonalSegment.c)]  
+  Medium [3573. Best Time to Buy and Sell Stock V](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/description/?envType=daily-question&envId=2025-12-17) [[C](C/3573_BestTimetoBuyandSellStockV.c)]  
 
 ## Greedy
   Medium [55. Jump Game](https://leetcode.com/problems/jump-game/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/55_JumpGame.c)]  

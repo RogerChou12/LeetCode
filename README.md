@@ -159,6 +159,7 @@
   Medium [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/?envType=daily-question&envId=2025-08-04) [[C](C/904_FruitIntoBaskets.c)]  
   Medium [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/?envType=daily-question&envId=2025-07-22) [[C](C/1695_MaximumErasureValue.c)]  
   Hard [3347. Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/description/?envType=daily-question&envId=2025-10-22) [[C](C/3347_MaximumFrequencyofanElementAfterPerformingOperationsII.c)]  
+  Medium [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/description/?envType=daily-question&envId=2025-12-18) [[C](C/3652_BestTimetoBuyandSellStockusingStrategy.c)]  
 
 ## Breadth-First Search
   Medium [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=oizxjoit) [[Python](Python/133_CloneGraph.py)]  

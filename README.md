@@ -185,6 +185,7 @@
   Medium [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/300_LongestIncreasingSubsequence.c)]  
   Medium [322. Coin Change](https://leetcode.com/problems/coin-change/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/322_CoinChange.c)]  
   Medium [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/?envType=daily-question&envId=2025-11-11) [[C](C/474_OnesandZeroes.c)]  
+  Hard [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/?envType=daily-question&envId=2025-12-22) [[C](C/960_DeleteColumnstoMakeSortedIII.c)]  
   Medium [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-20) [[C](C/1277_CountSquareSubmatriceswithAllOnes.c)]  
   Medium [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21) [[C](C/1504_CountSubmatricesWithAllOnes.c)]  
   Medium [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/?envType=daily-question&envId=2025-12-15) [[C](C/2110_NumberofSmoothDescentPeriodsofaStock.c)]  

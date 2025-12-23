@@ -188,6 +188,7 @@
   Hard [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/?envType=daily-question&envId=2025-12-22) [[C](C/960_DeleteColumnstoMakeSortedIII.c)]  
   Medium [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-20) [[C](C/1277_CountSquareSubmatriceswithAllOnes.c)]  
   Medium [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21) [[C](C/1504_CountSubmatricesWithAllOnes.c)]  
+  Medium [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/description/?envType=daily-question&envId=2025-12-23) [[C](C/2054_TwoBestNon-OverlappingEvents.c)]  
   Medium [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/?envType=daily-question&envId=2025-12-15) [[C](C/2110_NumberofSmoothDescentPeriodsofaStock.c)]  
   Medium [2327. Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/?envType=daily-question&envId=2025-09-09) [[C](C/2327_NumberofPeopleAwareofaSecret.c)]  
   Hard [2435. Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/description/?envType=daily-question&envId=2025-11-26) [[C](C/2435_PathsinMatrixWhoseSumIsDivisiblebyK.c)]  

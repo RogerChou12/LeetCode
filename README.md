@@ -46,6 +46,7 @@
   Medium [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) [[C](C/2149_RearrangeArrayElementsbySign.c)]  
   Medium [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) [[C](C/2161_PartitionArrayAccordingtoGivenPivot.c)]  
   Medium [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) [[C](C/2300_SuccessfulPairsofSpellsandPotions.c)]  
+  Easy [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/2367_NumberofArithmeticTriplets.c)]  
   Easy [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/submissions/1616152109/?envType=problem-list-v2&envId=two-pointers) [[C](C/2824_CountPairsWhoseSumisLessthanTarget.c)]  
   Medium [3132. Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/3132_FindtheIntegerAddedtoArrayII.c)]  
   Medium [3239. Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/?envType=problem-list-v2&envId=two-pointers) [[C](C/3239_MinimumNumberofFlipstoMakeBinaryGridPalindromicI.c)]  

@@ -246,6 +246,9 @@
   Medium [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/39_CombinationSum.c)]  
   Hard [679. 24 Game](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18) [[C](C/679_24Game.c)]  
 
+## Union Find
+Hard [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/?envType=daily-question&envId=2025-12-31) [[C](C/1970_LastDayWhereYouCanStillCross.c)]  
+
 ## Hash Table
   Medium [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/49_GroupAnagrams.c)] [[Python](Python/49_GroupAnagrams.py)]  
   Medium [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/73_SetMatrixZeroes.c)]  

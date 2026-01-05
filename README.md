@@ -142,6 +142,7 @@
   Medium [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2025-12-30) [[C](C/840_MagicSquaresInGrid.c)]  
   Easy [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/?envType=daily-question&envId=2025-11-17) [[C](C/1437_CheckIfAll1'sAreatLeastLengthKPlacesAway.c)]  
   Hard [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/?envType=daily-question&envId=2025-10-30)  [[C](C/1526_MinimumNumberofIncrementsonSubarraystoFormaTargetArray.c)]  
+  Medium [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2026-01-05) [[C](C/1975_MaximumMatrixSum.c)]  
   Easy [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19) [[C](C/2154_KeepMultiplyingFoundValuesbyTwo.c)]  
   Medium [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30) [[C](C/2221_FindTriangularSumofanArray.c)]  
   Medium [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11) [[C](C/2438_RangeProductQueriesofPowers.c)]  

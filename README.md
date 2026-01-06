@@ -168,6 +168,7 @@
 ## Breadth-First Search
   Medium [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=oizxjoit) [[Python](Python/133_CloneGraph.py)]  
   Medium [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1036459804/?envType=problem-list-v2&envId=oizxjoit) [[C](C/102_BinaryTreeLevelOrderTraversal.c)]  
+  Medium [1161. Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=daily-question&envId=2026-01-06) [[C](C/1161_MaximumLevelSumofaBinaryTree.c)]  
   Hard [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/?envType=daily-question&envId=2025-12-19) [[C](C/2092_FindAllPeopleWithSecret.c)]  
   Hard [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2025-11-28) [[C](C/2872_MaximumNumberofK-DivisibleComponents.c)]  
 

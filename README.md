@@ -177,6 +177,7 @@
   Easy [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/572_SubtreeofAnotherTree.c)] [[Python](Python/572_SubtreeofAnotherTree.py)]  
   Medium [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/200_NumberofIslands.c)]  
   Medium [79. Word Search](https://leetcode.com/problems/word-search/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/79_WordSearch.c)]  
+  Medium [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/?envType=daily-question&envId=2026-01-07) [[C](C/1339_MaximumProductofSplittedBinaryTree.c)]  
 
 ## Dynamic Programming
   Medium [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/70_ClimbingStairs.c)]  

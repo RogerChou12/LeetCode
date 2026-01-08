@@ -193,6 +193,7 @@
   Medium [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/?envType=daily-question&envId=2025-11-11) [[C](C/474_OnesandZeroes.c)]  
   Hard [960. Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/?envType=daily-question&envId=2025-12-22) [[C](C/960_DeleteColumnstoMakeSortedIII.c)]  
   Medium [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-20) [[C](C/1277_CountSquareSubmatriceswithAllOnes.c)]  
+  Hard [1458. Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/?envType=daily-question&envId=2026-01-08) [[C](C/1458_MaxDotProductofTwoSubsequences.c)]  
   Medium [1504. Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21) [[C](C/1504_CountSubmatricesWithAllOnes.c)]  
   Medium [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/description/?envType=daily-question&envId=2025-12-23) [[C](C/2054_TwoBestNon-OverlappingEvents.c)]  
   Medium [2110. Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/description/?envType=daily-question&envId=2025-12-15) [[C](C/2110_NumberofSmoothDescentPeriodsofaStock.c)]  

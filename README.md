@@ -140,6 +140,7 @@
   Medium [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25) [[C](C/498_DiagonalTraverse.c)]  
   Easy [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/?envType=daily-question&envId=2025-11-18) [[C](C/717_1-bitand2-bitCharacters.c)]  
   Medium [840. Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2025-12-30) [[C](C/840_MagicSquaresInGrid.c)]  
+  Easy [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2026-01-12) [[C](C/1266_MinimumTimeVisitingAllPoints.c)]  
   Easy [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/?envType=daily-question&envId=2025-11-17) [[C](C/1437_CheckIfAll1'sAreatLeastLengthKPlacesAway.c)]  
   Hard [1526. Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/description/?envType=daily-question&envId=2025-10-30)  [[C](C/1526_MinimumNumberofIncrementsonSubarraystoFormaTargetArray.c)]  
   Medium [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2026-01-05) [[C](C/1975_MaximumMatrixSum.c)]  

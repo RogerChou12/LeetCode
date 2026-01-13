@@ -247,6 +247,7 @@
   Hard [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/?envType=daily-question&envId=2025-12-01) [[C](C/2141_MaximumRunningTimeofNComputers.c)]  
   Hard [2528. Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/description/?envType=daily-question&envId=2025-11-07) [[C](C/2528_MaximizetheMinimumPoweredCity.c)]  
   Medium [3346. Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=daily-question&envId=2025-10-21) [[C](C/3346_MaximumFrequencyofanElementAfterPerformingOperationsI.c)]  
+  Medium [3453. Separate Squares I](https://leetcode.com/problems/separate-squares-i/description/?envType=daily-question&envId=2026-01-13) [[C](C/3453_SeparateSquaresI.c)]  
 
 ## Backtracking
   Medium [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/39_CombinationSum.c)]  

@@ -149,6 +149,7 @@
   Medium [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11) [[C](C/2438_RangeProductQueriesofPowers.c)]  
   Medium [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/description/?envType=daily-question&envId=2025-11-14) [[C](C/2536_IncrementSubmatricesbyOne.c)]  
   Easy [2644. Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/description/) [[C](C/2644_FindtheMaximumDivisibilityScore.c)]  
+  Medium [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15) [[C](C/2943_MaximizeAreaofSquareHoleinGrid.c)]  
   Easy [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26) [[C](C/3000_MaximumAreaofLongestDiagonalRectangle.c)]  
   Medium [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02) [[C](C/3025_FindtheNumberofWaystoPlacePeopleI.c)]  
   Medium [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/?envType=daily-question&envId=2025-09-03) [[C](C/3027_FindtheNumberofWaystoPlacePeopleII.c)]  

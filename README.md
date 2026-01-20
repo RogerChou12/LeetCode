@@ -95,6 +95,7 @@
   Medium [3133. Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3133_MinimumArrayEnd.c)]  
   Easy [3289. The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/?envType=daily-question&envId=2025-10-31) [[C](C/3289_TheTwoSneakyNumbersofDigitville.c)]  
   Easy [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3304_FindtheK-thCharacterinStringGameI.c)]  
+  Easy [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/?envType=daily-question&envId=2026-01-20) [[C](C/3314_ConstructtheMinimumBitwiseArrayI.c)]  
   Easy [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/3370_SmallestNumberWithAllSetBits.c)]  
 
 ## Linked List

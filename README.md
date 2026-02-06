@@ -165,6 +165,7 @@
   Easy [3477. Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/description/?envType=daily-question&envId=2025-08-05) [[C](C/3477_FruitsIntoBasketsII.c)]  
   Medium [3479. Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/description/?envType=daily-question&envId=2025-08-06) [[C](C/3479_FruitsIntoBasketsIII.c)]  
   Easy [3507. Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/description/?envType=daily-question&envId=2026-01-22) [[C](C/3507_MinimumPairRemovaltoSortArrayI.c)]  
+  Medium [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=daily-question&envId=2026-02-06) [[C](C/3634_MinimumRemovalstoBalanceArray.c)]  
   Easy [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/?envType=daily-question&envId=2026-02-03) [[C](C/3637_TrionicArrayI.c)]  
 
 ## Sliding Window

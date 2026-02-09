@@ -294,6 +294,7 @@ Hard [1970. Last Day Where You Can Still Cross](https://leetcode.com/problems/la
   Medium [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/230_KthSmallestElementinaBST.c)]  
   Easy [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=problem-list-v2&envId=oizxjoit) [[C](C/104_MaximumDepthofBinaryTree.c)]  
   Medium [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/?envType=problem-list-v2&envId=oizxjoit) [[C](C/105_ConstructBinaryTreefromPreorderandInorderTraversal.c)]  
+  Medium [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2026-02-09) [[C](C/1382_BalanceaBinarySearchTree.c)]  
 
 ## Trie
   Medium [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/?envType=problem-list-v2&envId=oizxjoit) [[Python](Python/208_ImplementTrie(PrefixTree).py)]  

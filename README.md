@@ -127,6 +127,7 @@
   Hard [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/?envType=daily-question&envId=2025-10-17) [[C](C/3003_MaximizetheNumberofPartitionsAfterOperations.c)]  
   Easy [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15) [[C](C/3136_ValidWord.c)]  
   Medium [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/?envType=daily-question&envId=2025-09-12) [[C](C/3227_VowelsGameinaString.c)]  
+  Medium [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/?envType=daily-question&envId=2026-02-12) [[C](C/3713_LongestBalancedSubstringI.c)]  
 
 ## Array
   Easy [1. Two Sum](https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/1_TwoSum.c)]  

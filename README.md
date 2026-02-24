@@ -190,6 +190,7 @@
   Medium [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/?envType=problem-list-v2&envId=oizxjoit) [[C](C/417_PacificAtlanticWaterFlow.c)]  
   Easy [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/572_SubtreeofAnotherTree.c)] [[Python](Python/572_SubtreeofAnotherTree.py)]  
   Medium [865. Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/?envType=daily-question&envId=2026-01-09) [[C](C/865_SmallestSubtreewithalltheDeepestNodes.c)]  
+  Easy [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/?envType=daily-question&envId=2026-02-24) [[C](C/1022_SumofRootToLeafBinaryNumbers.c)]  
   Medium [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/?envType=daily-question&envId=2026-01-07) [[C](C/1339_MaximumProductofSplittedBinaryTree.c)]  
 
 ## Dynamic Programming

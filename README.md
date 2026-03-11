@@ -70,6 +70,7 @@
   Medium [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/784_LetterCasePermutation.c)]  
   Medium [861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/861_ScoreAfterFlippingMatrix.c)]  
   Medium [898. Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/?envType=daily-question&envId=2025-07-31) [[C++](C/898_BitwiseORsofSubarrays.cpp)]  
+  Easy [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/description/?envType=daily-question&envId=2026-03-11) [[C](C/1009_ComplementofBase10Integer.c)]  
   Easy [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/description/?envType=daily-question&envId=2025-11-24) [[C](C/1018_BinaryPrefixDivisibleBy5.c)]  
   Medium [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1239_MaximumLengthofaConcatenatedStringwithUniqueCharacters.c)]  
   Medium [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/description/?envType=problem-list-v2&envId=bit-manipulation) [[C](C/1318_MinimumFlipstoMakeaORbEqualtoc.c)]  

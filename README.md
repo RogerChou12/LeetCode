@@ -133,6 +133,7 @@
   Hard [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/?envType=daily-question&envId=2025-10-17) [[C](C/3003_MaximizetheNumberofPartitionsAfterOperations.c)]  
   Easy [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=daily-question&envId=2025-07-15) [[C](C/3136_ValidWord.c)]  
   Medium [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/?envType=daily-question&envId=2025-09-12) [[C](C/3227_VowelsGameinaString.c)]  
+  Hard [3474. Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/description/?envType=daily-question&envId=2026-03-31) [[C](C/3474_LexicographicallySmallestGeneratedString.c)]  
   Medium [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/?envType=daily-question&envId=2026-02-12) [[C](C/3713_LongestBalancedSubstringI.c)]  
 
 ## Array

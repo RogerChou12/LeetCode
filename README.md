@@ -183,6 +183,7 @@
   Medium [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=daily-question&envId=2026-02-06) [[C](C/3634_MinimumRemovalstoBalanceArray.c)]  
   Easy [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/?envType=daily-question&envId=2026-02-03) [[C](C/3637_TrionicArrayI.c)]  
   Medium [3719. Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/description/?envType=daily-question&envId=2026-02-10) [[C](C/3719_LongestBalancedSubarrayI.c)]  
+  Easy [3740. Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/description/?envType=daily-question&envId=2026-04-10) [[C](C/3740_MinimumDistanceBetweenThreeEqualElementsI.c)]  
 
 ## Sliding Window
   Medium [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=oizxjoit) [[C](C/3_LongestSubstringWithoutRepeatingCharacters.c)]  

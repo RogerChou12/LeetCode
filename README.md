@@ -159,6 +159,7 @@
   Easy [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/?envType=daily-question&envId=2026-04-13) [[C](C/1848_MinimumDistancetotheTargetElement.c)]  
   Medium [1878. Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/description/?envType=daily-question&envId=2026-03-16) [[C](C/1878_GetBiggestThreeRhombusSumsinaGrid.c)]  
   Medium [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2026-01-05) [[C](C/1975_MaximumMatrixSum.c)]  
+  Easy [2078. Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/description/?envType=daily-question&envId=2026-04-20) [[C](C/2078_TwoFurthestHousesWithDifferentColors.c)]  
   Easy [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19) [[C](C/2154_KeepMultiplyingFoundValuesbyTwo.c)]  
   Medium [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30) [[C](C/2221_FindTriangularSumofanArray.c)]  
   Medium [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11) [[C](C/2438_RangeProductQueriesofPowers.c)]  

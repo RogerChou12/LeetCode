@@ -128,6 +128,7 @@
   Easy [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/?envType=daily-question&envId=2025-07-21) [[C](C/1957_DeleteCharacterstoMakeFancyString.c)]  
   Medium [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/?envType=daily-question&envId=2025-12-04) [[C](C/2211_CountCollisionsonaRoad.c)]  
   Easy [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2025-08-14) [[C](C/2264_Largest3-Same-DigitNumberinString.c)]  
+  Medium [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/?envType=daily-question&envId=2026-04-22) [[C](C/2452_WordsWithinTwoEditsofDictionary.c)]  
   Medium [2483. Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/description/?envType=daily-question&envId=2025-12-26) [[C](C/2483_MinimumPenaltyforaShop.c)]  
   Easy [2515. Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/?envType=daily-question&envId=2026-04-15) [[C](C/2515_ShortestDistancetoTargetStringinaCircularArray.c)]  
   Medium [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2025-09-11) [[C](C/2785_SortVowelsinaString.c)]  

@@ -165,6 +165,7 @@
   Medium [2221. Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/description/?envType=daily-question&envId=2025-09-30) [[C](C/2221_FindTriangularSumofanArray.c)]  
   Medium [2438. Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/description/?envType=daily-question&envId=2025-08-11) [[C](C/2438_RangeProductQueriesofPowers.c)]  
   Medium [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/description/?envType=daily-question&envId=2025-11-14) [[C](C/2536_IncrementSubmatricesbyOne.c)]  
+  Easy [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/?envType=daily-question&envId=2026-05-11) [[C](C/2553_SeparatetheDigitsinanArray.c)]  
   Easy [2644. Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/description/) [[C](C/2644_FindtheMaximumDivisibilityScore.c)]  
   Medium [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24) [[C](C/2906_ConstructProductMatrix.c)]  
   Medium [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15) [[C](C/2943_MaximizeAreaofSquareHoleinGrid.c)]  

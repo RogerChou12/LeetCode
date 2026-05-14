@@ -167,6 +167,7 @@
   Medium [2536. Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/description/?envType=daily-question&envId=2025-11-14) [[C](C/2536_IncrementSubmatricesbyOne.c)]  
   Easy [2553. Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/?envType=daily-question&envId=2026-05-11) [[C](C/2553_SeparatetheDigitsinanArray.c)]  
   Easy [2644. Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/description/) [[C](C/2644_FindtheMaximumDivisibilityScore.c)]  
+  Easy [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/?envType=daily-question&envId=2026-05-14) [[C](C/2784_CheckifArrayisGood.c)]  
   Medium [2906. Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/description/?envType=daily-question&envId=2026-03-24) [[C](C/2906_ConstructProductMatrix.c)]  
   Medium [2943. Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/description/?envType=daily-question&envId=2026-01-15) [[C](C/2943_MaximizeAreaofSquareHoleinGrid.c)]  
   Easy [2946. Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/description/?envType=daily-question&envId=2026-03-27) [[C](C/2946_MatrixSimilarityAfterCyclicShifts.c)]  
